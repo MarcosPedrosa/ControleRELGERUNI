@@ -1,0 +1,9 @@
+NUM_CAIXA	String	10	
+TIPO_CAIXA	String	8	
+PECA	String	15	
+LOTE	String	15	
+NF_VENDA	String	16	
+ORDEM_VENDA	String	11	
+SEQUENCIA	Number		
+PLACA	String	7	
+QTDEITENS	Number		

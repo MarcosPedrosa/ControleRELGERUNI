@@ -1,0 +1,5 @@
+SELECT     pallet AS Expr1, SUBSTRING(pallet, 4, 5) + SUBSTRING(pallet, 4, 5) AS pale, *
+FROM         ETIQUETA
+WHERE     (SUBSTRING(pallet, 5, 4) + SUBSTRING(pallet, 3, 2) + SUBSTRING(pallet, 1, 2) <= '20090703') AND (SUBSTRING(pallet, 5, 4) + SUBSTRING(pallet, 3, 2) 
+                      + SUBSTRING(pallet, 1, 2) >= '20090702')
+ORDER BY SUBSTRING(pallet, 5, 4) + SUBSTRING(pallet, 3, 2) + SUBSTRING(pallet, 1, 2)

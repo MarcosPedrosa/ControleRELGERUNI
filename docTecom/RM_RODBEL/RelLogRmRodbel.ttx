@@ -1,0 +1,6 @@
+STATUS	String	2	
+DATA	String	10	
+HORA	String	5	
+TIPO	String	29	
+CODFUN	String	5	
+MSG	String	60	

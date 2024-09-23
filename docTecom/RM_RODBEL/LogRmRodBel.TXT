@@ -1,0 +1,127 @@
+0;19/07/2010;09:12;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 09:12          
+1;19/07/2010;09:23;0952 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+0;19/07/2010;09:23;0000 ;Novatos                      ;Nao ha Novatos no periodo de 19/07/2010 09:23          
+1;19/07/2010;09:29;0952 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+1;19/07/2010;09:29;0953 ;Novatos                      ;Funcionario com o Centro de custo inexistente -  0     
+0;19/07/2010;09:29;0000 ;Novatos                      ;Nao ha Novatos no periodo de 19/07/2010 09:29          
+0;19/07/2010;10:00;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/07/2010 10:00       
+0;19/07/2010;10:03;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 10:03          
+0;19/07/2010;10:06;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 10:06          
+1;19/07/2010;10:10;0952 ;Novatos                      ;Funcionario com o Centro de custo inexistente -  10603 
+1;19/07/2010;10:10;0952 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+0;19/07/2010;10:15;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 10:15          
+1;19/07/2010;10:15;0952 ;Novatos                      ;Funcionario com o Centro de custo inexistente -  10603 
+1;19/07/2010;10:15;0952 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+0;19/07/2010;10:18;0953 ;Novatos                      ;Inclusão Novatos, Dt.Admissao - 14/07/2010             
+0;19/07/2010;10:18;0000 ;Novatos                      ;Nao ha Novatos no periodo de 19/07/2010 10:18          
+0;19/07/2010;10:39;0000 ;Mudança Setor                ;Nao ha Mudancas de Secao no periodo de 14/07/2010      
+0;19/07/2010;10:47;0953 ;Mudança Setor                ;Mudanca de Setor para  103                             
+1;19/07/2010;10:48;0952 ;Novatos                      ;Funcionario com o Centro de custo inexistente -  10603 
+1;19/07/2010;10:48;0952 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+1;19/07/2010;10:48;0953 ;Novatos                      ;Existe TAB.CREDENCIAIS e Nao Existe na TAB.PESSOAS     
+0;19/07/2010;10:48;0000 ;Novatos                      ;Nao ha Novatos no periodo de 19/07/2010 10:48          
+0;19/07/2010;10:48;0000 ;Ferias                       ;Nao ha Ferias no periodo de 19/07/2010 10:48           
+1;19/07/2010;10:48;0280 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;10:48;0287 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;10:48;0313 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;10:48;0398 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;10:48;0492 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+0;19/07/2010;10:48;0000 ;Afastados                    ;Nao ha Afastamento no periodo de '20100719'            
+0;19/07/2010;10:48;0001 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0002 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0656 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0239 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0222 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0248 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0228 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0642 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0290 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0291 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0300 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0305 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0307 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0309 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0332 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0401 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0422 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0444 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0460 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0461 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0474 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0477 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0499 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0512 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0514 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0528 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0534 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0204 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0561 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0585 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0587 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0605 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0609 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0610 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0611 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0622 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0623 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0630 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0636 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0657 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0659 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0664 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0665 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0666 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0670 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0686 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0717 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0726 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0728 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0731 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0741 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0742 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0774 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+0;19/07/2010;10:49;0788 ;Desligados                   ;Desligamento funcionario, no Periodo de '20100714'     
+1;19/07/2010;10:50;0953 ;Mudança Setor                ;Secao do RM nao Cadastada na RodBel  - 1.03            
+0;19/07/2010;10:50;0000 ;Mudança Setor                ;Nao ha Mudancas de Secao no periodo de 14/07/2010      
+0;19/07/2010;10:50;0000 ;Atestados                    ;Nao ha Atestado no periodo de 19/07/2010 10:50         
+0;19/07/2010;10:57;0000 ;Desligados                   ;Nao ha Desligamento no periodo de '20100714'           
+1;19/07/2010;11:00;0280 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:00;0287 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:00;0313 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:00;0398 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:00;0492 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:00;0953 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+0;19/07/2010;11:00;0000 ;Afastados                    ;Nao ha Afastamento no periodo de '20100719'            
+1;19/07/2010;11:03;0280 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:03;0287 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:03;0313 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:04;0398 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:04;0492 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:05;0953 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+0;19/07/2010;11:05;0000 ;Afastados                    ;Nao ha Afastamento no periodo de '20100719'            
+1;19/07/2010;11:18;0280 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:18;0287 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:18;0313 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:18;0398 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+1;19/07/2010;11:18;0492 ;Afastados                    ;Tentativa de Afastar um funcionario nao Cadastrado na R
+0;19/07/2010;11:19;0953 ;Afastados                    ;Afastando no Inicio de 19/07/2010 a 15/11/2010         
+0;19/07/2010;11:19;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/07/2010 11:19       
+0;19/07/2010;11:33;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 11:33          
+0;19/07/2010;11:33;0374 ;Ferias                       ;Entrando de Ferias Periodo de 19/07/2010 a 19/08/2010  
+0;19/07/2010;11:48;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 11:48          
+0;19/07/2010;11:55;0101 ;Atestados                    ;Atestado no Inicio de 19/07/2010 a 20/07/2010          
+0;19/07/2010;11:59;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/07/2010 11:59       
+0;19/07/2010;12:01;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 12:01          
+0;19/07/2010;12:25;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/07/2010 12:25       
+0;19/07/2010;12:25;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 12:25          
+0;19/07/2010;13:55;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 13:55          
+0;19/07/2010;13:57;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 13:57          
+0;19/07/2010;14:00;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:00          
+0;19/07/2010;14:01;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:01          
+0;19/07/2010;14:01;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:01          
+0;19/07/2010;14:12;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:12          
+0;19/07/2010;14:14;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:14          
+0;19/07/2010;14:23;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 19/07/2010 14:23          
+0;19/07/2010;14:24;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 19/07/2010 14:24       
+0;27/07/2010;15:55;0000 ;Sistema Ligado               ;Sistema Ligado no periodo de 27/07/2010 15:55          
+0;27/07/2010;15:55;0000 ;Sistema Desligado            ;Sistema Desligado no periodo de 27/07/2010 15:55       

@@ -1,0 +1,7 @@
+LOG_DATA	Date		
+LOG_HORA	String	8	
+LOG_USU	String	10	
+LOG_TABELA	String	30	
+LOG_ACAO	String	50	
+LOG_SQL	Memo		
+LOG_OBSERVACAO	Memo		

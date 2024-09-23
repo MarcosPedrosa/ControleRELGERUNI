@@ -1,0 +1,7 @@
+CHAPA	String	7	
+FUNCIONARIO	String	30	
+SALDO_ANT	Number		
+DESCONTO	Number		
+SALDO_ATU	Number		
+SALARIO	Number		
+OBS	String	50	

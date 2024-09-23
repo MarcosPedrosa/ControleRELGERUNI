@@ -1,0 +1,46 @@
+#######################################################################################
+######## ABAIXO TEMOS AS POSICOES REFERENTE AS BASE QUE O USUARIO ESCOLHER ############
+#######################################################################################
+#                 Identificao de cada registro, ou seja cada linha:                   #
+#                       Na primeira coluna temos os caracteres                        #
+#                                "#" --> Comentario                                   #
+#                                "0" --> Escolha da Base Teste ou producao            #
+#                                "1" --> As bases de Produo                           #
+#                                "2" --> as bases de teste                            #
+#*************************************************************************************#
+########                   ### 0 = Escolha das Bases ###                              #
+######## Estes itens abaixo, identificara opo escolhida. no sistema vai aparecer      #
+######## as opceos "PRODUCAO" OU "TESTE". Nesta ordem quando voc Escolhendo producao  #
+######## estara selecionando o tipo 1 ou a segunda opcao teste.                       #
+#######################################################################################
+#                                                                                     #
+# DATABASE-----CD-ID.SISTEMA--IP-------------USUARIO--------SENHA---------------------#
+#-------------------------------------------------------------------------------------#
+0Teklogix      001PRODUCAO    10.4.0.6       pedrosa        eFoTVir$Jhw7YZb           #
+0Teklogix      001TESTE       10.4.0.6       pedrosa        eFoTVir$Jhw7YZb           #
+#                                                                                     #
+#*************************************************************************************#
+#                                                                                     #
+################################  1 = Base de producao  ###############################
+########      Estes tres abaixo, sao as bases de Acesso para o RM/RODBEL/UNIMED       #
+########                                                                              #
+1CorporeRM     001PRODUCAORM  10.4.0.6       pedrosa        eFoTVir$Jhw7YZb           #
+1RBACESSO_V100 001PRODUCAORD  10.4.0.6       pedrosa        eFoTVir$Jhw7YZb           #
+1Valetrp       001PRODUCAOUNI 10.4.0.6       pedrosa        eFoTVir$Jhw7YZb           #
+#                                                                                     #
+################################  2 = Base de teste  ##################################
+######## Estes tres abaixo, identifica a base de TESTE para o RM/RODBEL/UNIMED        #
+########                                                                              #
+2BkpRM         001TESTERM     msb-25         pedrosa        eFoTVir$Jhw7YZb           #
+2RBACESSO_V100 001TESTERD     msb-4          pedrosa        eFoTVir$Jhw7YZb           #
+2MUSASHI       001TESTEUNI    msb-4          pedrosa        eFoTVir$Jhw7YZb           #
+#                                                                                     #
+
+
+MDACESSO;pedrosa;eFoTVir$Jhw7YZb //banco rodbel
+CorporeRM;pedrosa;eFoTVir$Jhw7YZb //bbanco corpore rm
+New_Ged;pedrosa;eFoTVir$Jhw7YZb //bbanco Ged
+Valetrp;pedrosa;eFoTVir$Jhw7YZb //banco do VT
+NFE;pedrosa;eFoTVir$Jhw7YZb //banco do NFE
+
+

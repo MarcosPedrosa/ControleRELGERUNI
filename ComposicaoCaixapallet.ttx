@@ -1,0 +1,6 @@
+PALLET	String	15	
+ID_CLIENTE	String	10	
+CONF_PALLET	String	10	
+CLIENTE	String	25	
+CAIXA	Number		
+QTDE	Number		

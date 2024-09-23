@@ -1,0 +1,6 @@
+CHAPA	String	7	
+FUNCIONARIO	String	30	
+DT_EVENTO	String	10	
+HORA	String	5	
+REFERENCIA	Number		
+VALOR	Number		
